@@ -19,3 +19,4 @@
 - RakutenBookAPI GoogleBookAPI からデータ取得
 - テストコード rspec
 - csv 書き出し
+- レスポンシブ対応
